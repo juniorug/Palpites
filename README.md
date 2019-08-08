@@ -1,2 +1,0 @@
-# Palpites
-Created with CodeSandbox
